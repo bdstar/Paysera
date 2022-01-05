@@ -1,0 +1,21 @@
+{
+    "name": "optimusprime/task",
+    "description": "An application that handles operations provided in CSV format and calculates a commission fee based on defined rules",
+    "type": "project",
+    "require": {
+        "php": "7.4.20"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "MyApp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "bdstar",
+            "email": "mamunbd.ruet@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
